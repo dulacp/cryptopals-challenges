@@ -13,3 +13,7 @@ Some Python implementations to solve Cryptopals challenges.
 ## License
 
 The code in this repository is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+
+
+[github-dulacp]: https://github.com/dulacp
+[twitter-dulacp]: https://twitter.com/_dulacp
